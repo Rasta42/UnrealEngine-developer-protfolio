@@ -3,9 +3,9 @@
 
 ## Protocol и LocoParentis. 2016-2019.
 [Protocol в Steam](https://store.steampowered.com/app/724490/Protocol)
-
+[](https://github.com/Rasta42/UnrealEngine-developer-protfolio/blob/main/Video/Protocol/ProtocolYoutubers.mp4)
 [Loco Parentis в Steam](https://store.steampowered.com/app/693800/Loco_Parentis)
-
+[](https://github.com/Rasta42/UnrealEngine-developer-protfolio/blob/main/Video/LocoParentis/LocoParentisCoop.mp4)
 Начало пути в Unreal Engine. Loco Parentis базируется во многом по механикам на Protocol, по этому расскажу о них в одной главе.
 Про сюжет проектов можно прочитать в Steam. Тут о реализации и том, что было сделано мной.
 
@@ -17,6 +17,7 @@ https://www.youtube.com/watch?v=PyqpYs8xf9Q&ab_channel=FairGames
 Так же реализовал IK всего тела для VR и управление от 1-лица с возможностью полностью видеть всё тело.
 
 ### Взаимодействие с миром.
+[](https://github.com/Rasta42/UnrealEngine-developer-protfolio/blob/main/Video/Protocol/ProtocolVRGameplay.mp4)
 Требовалась унификация логики для всех аспектов управления - клава-мышь/VR в кооперативе.
 Разработал библиотеку абстрактных с++ классов для постройки мира в котором игрок может взаимоедйствовать с набором разных объектов.
 Для контроллера и персонажа игрока есть базовые "руки" которые могут быть как на обычном так и на VR контроллере.
@@ -39,6 +40,9 @@ https://www.youtube.com/watch?v=PyqpYs8xf9Q&ab_channel=FairGames
 
 ### Поддержка и багфиксинг.
 Взаимодействие с QA. Работа с багтреккером. Сбор и поиск багов в лестплеях и steam комьюнити.
+
+### Оптимизация под XBOX, PS4, Nintentdo Switch
+Помогал команде по портированию достичь желаемых 30 фпс.
 
 ## Cyberage. 2019.
 Прототип клона GTA в cyberpunk стилистике на ios и android.
@@ -98,10 +102,19 @@ https://www.youtube.com/watch?v=PyqpYs8xf9Q&ab_channel=FairGames
 ### Blockchain и RestApi.
 Получение инвентаря игроков через POST-GET запросы.
 
-### Grpc и кодогенерация. 
-Участвовал в разработке плагина для кодогенерации блюпринтов из grpc proto файлов.
+### gRPC и кодогенерация. 
+Участвовал в разработке плагина для кодогенерации блюпринтов из gRPC proto файлов.
+
+## DriftLesson. 2024.
+Прототип для открытого урока онлай школы OTUS
+[Видео урока](https://www.youtube.com/live/9OF5Y5Btnfg?si=vC00oG1gh8ErLFoC)
+[Статья](https://habr.com/ru/companies/otus/articles/736760/)
+[Github](https://github.com/Rasta42/DriftLesson)
+[Gameplay]()
+Прототипом я хотел показать, что даже без навыков прогроммирования можно делать физические механики и передать основную идея, что играть должна передавать ощущения и эмоции в первую очередь и реализм во вторую.
 
 ## Offroad. 2023-2024.
+[PlayMarket](https://play.google.com/store/apps/details?id=offroad.racing.game)
 Переход в корпорацию. Огромная команда. Настроенные процессы. Дейлики.
 Технический геймдизайн. Мобильные гонки с огромным органическим трафиком.
 
@@ -111,7 +124,7 @@ https://www.youtube.com/watch?v=PyqpYs8xf9Q&ab_channel=FairGames
 Так же разбираясь в том, за что отвечают все переменные нужно было настроить реалистичное поведение.
 Поняв, что реализм нам не подоходит начали вместе с продюссером искать балланс между аркадой и реализомом.
 
-### Анализ рефов.
+### Анализ референсов и конкурентов
 Куча игровых часов во всевозможные гонки. С записию видео, анализом, защитой перед продюссером.
 
 ### Расчет технических характеристик авто.
@@ -125,6 +138,7 @@ https://www.youtube.com/watch?v=PyqpYs8xf9Q&ab_channel=FairGames
 Улучшение обзора и ощущения скорости.
 
 ## GoodHero. 2025.
+[PlayMarket](https://play.google.com/store/apps/details?id=com.gojjigames.goodhero)
 Мобильный топдаун автошутер. Техарт+техгд.
 
 ### PBR Materials.
@@ -143,5 +157,3 @@ https://www.youtube.com/watch?v=PyqpYs8xf9Q&ab_channel=FairGames
 
 ### Постпроцесс.
 Настройка и оптимизация постпроцесса. Настройка цветового балланса.
-
-### 
