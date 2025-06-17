@@ -124,6 +124,8 @@ https://github.com/Rasta42/UnrealEngine-developer-protfolio/blob/main/Video/Drif
 Цель прототипа показать как можно сделать физические механики только на блюпринтах и передать основную идею - игра должна передавать ощущения и эмоции в первую очередь и реализм во вторую.
 
 
+https://github.com/user-attachments/assets/b646fc25-c3bb-4c2d-b19d-2e636ff6b246
+
 
 ## Offroad. 2023-2024.
 [PlayMarket](https://play.google.com/store/apps/details?id=offroad.racing.game)
