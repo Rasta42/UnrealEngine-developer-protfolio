@@ -9,11 +9,11 @@
 Начало пути в Unreal Engine. Loco Parentis разрабатывалась на базе механик Protocol, поэтому расскажу о двух проектах в одной главе.
 Оба проекта предлагают возможность играть как на ПК с клавиатуры-мыши или геймпада, так и в VR. В LocoParentis добавлена возможность кооператива по сети.
 
-https://github.com/user-attachments/assets/78d88969-5784-4dab-a875-73c70d20551a
-
 [Protocol в Steam](https://store.steampowered.com/app/724490/Protocol)
 
 [Loco Parentis в Steam](https://store.steampowered.com/app/693800/Loco_Parentis)
+
+https://github.com/user-attachments/assets/78d88969-5784-4dab-a875-73c70d20551a
 
 ### Персонаж
 Игровой персонаж разрабатывался универсальным для управления от первого лица и третьего лица (в качестве аватара игрока в виртуальной реальности).
@@ -70,9 +70,13 @@ https://github.com/user-attachments/assets/e90b0520-6bb6-433c-b117-5a369a167b3e
 Еще до начала этого проекта я занял место лида и принял на себя управление командой (кого?) и ответственность за техническую сторону проекта.
 Адвенчура с головоломками, простенькими боевками и стрельбой.
 
+[Noch в Steam](https://store.steampowered.com/app/1363360/Noch/)
+
 https://github.com/user-attachments/assets/ef11c434-52d5-4bde-bb48-0438bf8dd516
 
-[Noch в Steam](https://store.steampowered.com/app/1363360/Noch/)
+### Релиз-менджемет
+Заливка билдов, релиз и обновления в Steam, EGS, VKplay, GOG.
+
 ### Менеджмент и наставничество
 Менеджмент задач между разработчиками и оценка сроков. Взаимодействие между отделами разработки, арта и гд. Обучал работе в движке стажеров, левел и саунд-дизайнеров. 
 
@@ -125,18 +129,23 @@ https://github.com/user-attachments/assets/cb6f2765-80bb-44fa-b1fe-af51e8ff3cc5
 Участвовал в разработке плагина для кодогенерации блюпринтов из gRPC proto-файлов.
 
 ## DriftLesson, 2024 (PC)
-Прототип для открытого урока онлай школы OTUS. (дополнить, что проект твой от идеи до реализации)
+Была задача придумать и снять разработку увелкательного прототипа для 2 открытых уроков онлайн школы OTUS.
+Реализовал давнюю идею - сделать веселую, но физически достоверную игру про дрифт.
 Цель прототипа показать как можно сделать физические механики только на блюпринтах и донести основную идею - в первую очередь игра должна передавать ощущения и эмоции,во вторую - реализм.
-[Видео урока](https://www.youtube.com/live/9OF5Y5Btnfg?si=vC00oG1gh8ErLFoC)
-[Статья](https://habr.com/ru/companies/otus/articles/736760/)
-[Github](https://github.com/Rasta42/DriftLesson)
+
+[Видео запись урока на ютубе](https://www.youtube.com/live/9OF5Y5Btnfg?si=vC00oG1gh8ErLFoC)
+
+Также меня попросили написать [статью на хабре](https://habr.com/ru/companies/otus/articles/736760/).
+
+[Проект на Github](https://github.com/Rasta42/DriftLesson), прошу строго не судить - прототип очень грубый с точки зрения кода.
 
 https://github.com/user-attachments/assets/b646fc25-c3bb-4c2d-b19d-2e636ff6b246
 
 ## Offroad, 2023-2024 (mobile)
-[PlayMarket](https://play.google.com/store/apps/details?id=offroad.racing.game)
 Технический геймдизайн. Мобильные гонки с огромным(сотни тысяч) органическим трафиком.
 Основные задачи: настройка физики машин, настройка камеры.
+
+[Offroad на PlayMarket](https://play.google.com/store/apps/details?id=offroad.racing.game)
 
 https://github.com/user-attachments/assets/910a71b0-0465-46a0-9d94-a2938f1ded9b
 
@@ -155,14 +164,17 @@ https://github.com/user-attachments/assets/1fc6f7a2-8473-452f-a5ff-e50cb0630d44
 Параметры рассчитывались "в реальном времени" т.к. игрок может тюнинговать машину и гибко настраивать характеристики.
 
 ### Поведение камеры в гараже
-Переработал камеру: настроил базовое положение камеры в гараже, реализовал вращение вокруг машин разных размеров и компоновок, "подлеты" к деталям при тюнинге. Сджелал удобное управление камерой при раскраске машины.
+Переработал камеру: настроил базовое положение камеры в гараже, реализовал вращение вокруг машин разных размеров и компоновок, "подлеты" к деталям при тюнинге. Сделал удобное управление камерой при раскраске машины.
 
 ### Настройка геймплейной камеры
 Улучшение обзора, ощущения скорости и размеров машины 
 
 ## GoodHero, 2025 (mobile)
-[PlayMarket](https://play.google.com/store/apps/details?id=com.gojjigames.goodhero)
 Мобильный топдаун автошутер. Совмещал роли технического художника и технического геймдизайнера.
+
+[GoodHero на PlayMarket](https://play.google.com/store/apps/details?id=com.gojjigames.goodhero)
+
+https://github.com/user-attachments/assets/e579986a-e0d2-4caa-816f-e35c2e892b05
 
 ### PBR Materials
 Создание, настройка, доработка и оптимизация материалов.
