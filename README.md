@@ -112,13 +112,13 @@ https://github.com/user-attachments/assets/cb6f2765-80bb-44fa-b1fe-af51e8ff3cc5
 ## Drift Lesson, 2024 (PC)
 Придумал и провел два открытых урока со стримом разработки прототипа дрифт симулятора для оналйн школы OTUS.
 Реализовал давнюю идею - сделать веселую, но физически достоверную игру про дрифт.
-Цель прототипа: донести основную идею - в первую очередь игра должна передавать ощущения и эмоции, во вторую - реализм.
+Цель прототипа: показать, что в первую очередь игра должна передавать ощущения и эмоции.
 
-[Видео запись урока на ютубе](https://www.youtube.com/live/9OF5Y5Btnfg?si=vC00oG1gh8ErLFoC)
+[Видеозапись урока на ютубе](https://www.youtube.com/live/9OF5Y5Btnfg?si=vC00oG1gh8ErLFoC)
 
-Также меня попросили написать [статью на хабре](https://habr.com/ru/companies/otus/articles/736760/).
+[Текстовая версия урока на хабре](https://habr.com/ru/companies/otus/articles/736760/).
 
-[Проект на Github](https://github.com/Rasta42/DriftLesson), прошу строго не судить - прототип очень грубый с точки зрения кода.
+[Проект на Github](https://github.com/Rasta42/DriftLesson) - очень грубый с точки зрения кода прототип.
 
 https://github.com/user-attachments/assets/b646fc25-c3bb-4c2d-b19d-2e636ff6b246
 
