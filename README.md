@@ -26,8 +26,8 @@ https://github.com/user-attachments/assets/78d88969-5784-4dab-a875-73c70d20551a
 
 https://github.com/user-attachments/assets/d7c83fac-0f5e-4f43-bc6e-b13931abe000
 
-#### Репликация
-Изучил всю базу репликации в UnrealEngine.
+#### Multiplayer network
+Изучил network framework Unreal Engine.
 Решал проблемы очередности загрузки и инициализации клиентов. Настраивал репликацию физики, синематиков и in-game катсцен.
 
 #### Оптимизация и рефакторинг
